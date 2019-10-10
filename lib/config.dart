@@ -5,7 +5,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 export './form/form_page.dart';
 
-import './lqrui.dart';
+import './flutter_lqrui.dart';
 
 class Lqr {
   // Edge++++++++++++++++++++++++++++++++++++++++++++

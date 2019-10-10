@@ -1,8 +1,8 @@
-name: lqrui
+name: flutter_lqrui
 description: A new Flutter package project.
 version: 0.0.1
 author: 982991084 <982991084@qq.com>
-homepage: https://www.lqrui.cn
+homepage: https://github.com/982991084/flutter_lqrui
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
